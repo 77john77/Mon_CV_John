@@ -37,14 +37,13 @@ header h1{
 
 footer{
   border-top: 2px solid #fff;
-  background-image: url("securite192.jpg");
+  background-image: url("securite1920.jpg");
 }
 footer p{
   width: 90%;
   margin: 0 auto;
   color: rgb(247, 245, 243);
   text-align: center;
-  background-image: url("securite1920.jpg");
 
 }
 /*SECTIONS*/
