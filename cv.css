@@ -52,8 +52,7 @@ section{
   justify-content: center;
   width: 100%;
   padding-bottom: 20px;
-  margin-bottom: 40px;
-  marg: 20px auto;
+  margin: 20px auto;
   box-shadow: 0px 0px 10px #bbb;
   background-color: #fff;
 }
@@ -118,7 +117,7 @@ section > div{
     display: flex;
     flex-flow: row wrap;
     border-bottom: 1px solid #bbb;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     padding-bottom: 10px;
 }
 .exp-info{
@@ -146,7 +145,7 @@ section > div{
 .comp{
     display: flex;
     flex-flow: row wrap;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 .comp p{
     flex: 0 0 40%;
