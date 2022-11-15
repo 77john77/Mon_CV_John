@@ -37,7 +37,8 @@ header h1{
 
 footer{
   border-top: 2px solid #fff;
-  background-image: url("cv-cover.jpg");
+  background-image: url("securite1920.jpg");
+  margin: auto;
 }
 footer p{
   width: 90%;
